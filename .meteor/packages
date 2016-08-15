@@ -29,7 +29,7 @@ nova:base-routes
 nova:email-templates
 nova:i18n-en-us
 
-accounts-password
+accounts-password@1.2.12
 # accounts-twitter
 # accounts-facebook
 
